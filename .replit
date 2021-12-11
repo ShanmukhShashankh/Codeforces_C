@@ -1,2 +1,2 @@
 language = "cpp"
-run = "gcc main.cpp"
+run = "g++ Swap_Numbers.cpp -o Swap_Numbers && ./Swap_Numbers"
