@@ -25,6 +25,10 @@ int main()
     else{
         printf("IGNORE HIM!");
     }
+<<<<<<< HEAD
 }         
 
 //test
+=======
+}         
+>>>>>>> 0190731044816c41e8bdcc1fb48a0a6b52ecf94e
