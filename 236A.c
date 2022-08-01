@@ -15,8 +15,7 @@ int unique_char(char* str) {
 }
 
 
-int main()
-{
+int main(){
     char X[100];
     scanf("%s",&X);
     if(unique_char(X)%2==0){
@@ -25,3 +24,4 @@ int main()
     else{
         printf("IGNORE HIM!");
     }
+}
